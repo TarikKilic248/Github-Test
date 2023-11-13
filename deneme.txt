@@ -1,0 +1,35 @@
+[33mcommit 0ca59882e2922de71b6baf4375db50cdfc3e0617[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: TarikKilic <batmaca2002@gmail.com>
+Date:   Wed Nov 8 20:31:48 2023 +0300
+
+    Test dosyası yazıldı
+
+[33mcommit f351a8123f59e4e11dced33fd82c5915b0c84d4c[m
+Author: TarikKilic <batmaca2002@gmail.com>
+Date:   Wed Nov 1 18:26:26 2023 +0300
+
+    html baslik eklendi
+
+[33mcommit ca2713e8d202d7664f1076f8652111e65dd78e33[m
+Author: TarikKilic <batmaca2002@gmail.com>
+Date:   Wed Nov 1 18:25:06 2023 +0300
+
+    Gitignore olusturuldu
+
+[33mcommit 953a6c056547053c3bade1e857501f5bc3695bfb[m
+Author: TarikKilic <batmaca2002@gmail.com>
+Date:   Wed Nov 1 18:14:51 2023 +0300
+
+    HTML olusruldu
+
+[33mcommit 7177103871e360d78e0064c9f2513e495b2a1a9c[m
+Author: TarikKilic <batmaca2002@gmail.com>
+Date:   Wed Nov 1 17:00:40 2023 +0300
+
+    ilk satir kodlari yazdik
+
+[33mcommit 2b6f38dfc47d80146380643387241d137986cfe9[m
+Author: TarikKilic <batmaca2002@gmail.com>
+Date:   Wed Nov 1 16:53:39 2023 +0300
+
+    ilk commit
